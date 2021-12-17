@@ -6,4 +6,25 @@ const three = 3; // block scoped, can not be changed in scope, available after d
 
 // Declaring Variables
 var hello = "Hello";
+console.log(hello);
+hello = "Hello World";
 console.log(hello)
+
+if (true) {
+    let world = "World";
+    console.log(world);
+}
+const name = "Sajid";
+console.log(name);
+
+
+
+
+
+
+
+
+
+
+
+
