@@ -7,4 +7,4 @@ console.log(hello,world,"2")
 //3
 console.log('%s %s 3',hello,world);
 //4
-console.log(`${hello}, ${world} 4`)
+console.log(`${hello} ${world} 4`)
