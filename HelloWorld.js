@@ -8,3 +8,5 @@ console.log(hello,world,"2")
 console.log('%s %s 3',hello,world);
 //4
 console.log(`${hello} ${world} 4`)
+//5
+console.log(`Hello World 5`)
