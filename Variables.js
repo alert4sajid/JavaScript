@@ -5,6 +5,7 @@ const three = 3; // block scoped, can not be changed in scope, available after d
 // let in loops
 
 // Declaring Variables
+console.log(hello); // undefined, not error
 var hello = "Hello";
 console.log(hello);
 hello = "Hello World";
@@ -16,7 +17,6 @@ if (true) {
 }
 const name = "Sajid";
 console.log(name);
-
 
 
 
