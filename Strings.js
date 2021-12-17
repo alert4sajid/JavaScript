@@ -1,8 +1,9 @@
-//String Concatenation
-let str1 = "Hello";
-let str2 = "World";
+//String Concatenation using + operator
+let str1 = "Hello ";
+let str2 = "World!";
+
 console.log(str1 + str2);
-console.log(str1 + " new " + str2)
+console.log(str1 + "new " + str2)
 
 // numbers 
 let num1 = 1;
