@@ -1,4 +1,4 @@
-//String Concatenation using + operator
+//Concatenation using + operator
 let str1 = "Hello ";
 let str2 = "World!";
 
