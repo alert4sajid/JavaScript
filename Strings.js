@@ -10,3 +10,9 @@ let num1 = 1;
 let num2 = "2";
 console.log(num1 + num2); //11 as string
 console.log(num1 + 1);    //2 as number
+
+console.log("-- Converting strings to numbers --");
+console.log(parseInt("100"));
+console.log(parseInt(num1));
+console.log(parseInt("ABCD"));
+console.log(parseInt("0xF")); //Hexadecimal
